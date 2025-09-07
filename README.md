@@ -51,9 +51,9 @@ To address this, we developed **Calmly**, an **AI-based mental health chatbot** 
 
 ## 📁 Files / Resources  
 
-- **Project Report:** [Calmly_report.pdf](Calmly_report.pdf)  
+- **Project Report:** [Calmly_report.pdf](Camly_report.pdf)  
 - **Presentation Slides:** [Chatbot_ppt.pdf](Chatbot_ppt.pdf)  
-- **Conference Paper:** [Calmly_Conference_paper.pdf](Calmly_Conference_paper.pdf)  
+- **Conference Paper:** [Calmly_Conference_paper.pdf](Clamly_Conference_paper.pdf)  
 - **Conference Certificate:** [16th ICCCNT 2025 Certificate](Conference_certificate_16th_ICCCNT_2025.pdf)  
 
 ---
